@@ -53,3 +53,4 @@
 - `setContentView` メソッド
 - `View Binding`
 - ラムダ式
+etc...
